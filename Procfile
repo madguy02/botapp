@@ -1,2 +1,2 @@
 
-web: gunicorn app:app 
+web: gunicorn flask_chatbot:app 
