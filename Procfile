@@ -1,2 +1,2 @@
 
-web: gunicorn flask_chatbot:app --preload
+web: gunicorn app:app 
